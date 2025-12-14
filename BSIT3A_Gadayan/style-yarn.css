@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #efefef;
+}
+
+#container {
+    background: white;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    height: 5px;
+    background-color: #6c74f6;
+    border: none;
+}
+#profile-header {
+    display: flex;
+    justify-content: space-between; 
+}
+
+#personal {
+    max-width: 600px;
+}
+
+img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%; 
+}
